@@ -1,1 +1,1 @@
-# typescript-blank
+simple blank gulp / typescript project
